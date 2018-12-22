@@ -2,7 +2,7 @@
 
 <hr>
 
-![Halas](https://raw.githubusercontent.com/HalasProject/LaravelStudent/master/Image/BlogAngular.gif)
+![Gif](https://raw.githubusercontent.com/HalasProject/LaravelStudent/master/Image/BlogAngular.gif)
 
 # Getting started
 
