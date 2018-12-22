@@ -1,6 +1,7 @@
 ![Halas](https://raw.githubusercontent.com/HalasProject/LaravelStudent/master/Image/StudNote.png)
 
 <hr>
+
 ![Halas](https://raw.githubusercontent.com/HalasProject/LaravelStudent/master/Image/BlogAngular.gif)
 
 # Getting started
